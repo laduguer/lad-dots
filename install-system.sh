@@ -15,6 +15,7 @@ sudo apt install -y \
 	vim \
 	chromium \
 	maven \
+	xclip \
 	bash-completion
 
 sudo apt upgrade -y
